@@ -15,7 +15,7 @@
     <hr>
     <div class="dropdown">
         <a href="#" class="d-flex align-items-center link-dark text-decoration-none dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false">
-            <img src="https://github.com/mdo.png" alt="" width="32" height="32" class="rounded-circle me-2">
+            <img src="https://lh3.googleusercontent.com/a/AEdFTp4dlewvJd0ICA5S7XcTgBCqDbgBCsmSGvHvZNiL1A=s96-c-rg-br100" alt="" width="32" height="32" class="rounded-circle me-2">
             <strong>Get Real</strong>
         </a>
         <ul class="dropdown-menu text-small shadow">
